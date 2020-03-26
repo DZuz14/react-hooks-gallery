@@ -13,7 +13,7 @@ If your browser does not automatically open, visit `http://localhost:8080`
 
 ## Demo
 
-Here is a working demo. [React Hooks Photo Gallery Demo](https://dzuz14.github.io/react-hooks-gallery/)
+[React Hooks Photo Gallery Demo](https://dzuz14.github.io/react-hooks-gallery/)
 
 ## YouTube
 
