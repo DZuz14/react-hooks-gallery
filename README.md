@@ -1,6 +1,6 @@
 # React Hooks Photo Gallery
 
-Example of a photo gallery built with React Hooks. Responsive & more advanced version coming soon.
+Example of a photo gallery built with React Hooks. Responsive & more advanced version coming soon. Please be aware this is just an example, you would want to load images that were optimized for specific screen sizes. The one's in the demo are just large ones by default.
 
 ## Use
 
@@ -10,6 +10,10 @@ Example of a photo gallery built with React Hooks. Responsive & more advanced ve
 - `npm start`
 
 If your browser does not automatically open, visit `http://localhost:8080`
+
+## Demo
+
+Here is a working demo. [React Hooks Photo Gallery Demo](https://dzuz14.github.io/react-hooks-gallery/)
 
 ## YouTube
 
