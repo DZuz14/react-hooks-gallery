@@ -1,6 +1,8 @@
 # React Hooks Photo Gallery
 
-Example of a photo gallery built with React Hooks. Responsive & more advanced version coming soon. Please be aware this is just an example, you would want to load images that were optimized for specific screen sizes. The one's in the demo are just large ones by default.
+Example of a photo gallery built with React Hooks. Please be aware this is just an example, you would want to load images that were optimized for specific screen sizes. The one's in the demo are quite large. 
+
+If I get some additional time, I will attempt to update this for performance and responsiveness.
 
 ## Use
 
